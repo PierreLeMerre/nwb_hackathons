@@ -6,14 +6,14 @@
 
 ## Project Description
 
-Conversion of Neuropixels PFC recordings (extracelluar) with thier associated behavioral signals (pupil, face, sounds, optogenetics) into NWB format. Recording sessions performed in head-fixed mice. Coding language: MAtlab.
+Conversion of Neuropixels PFC recordings (extracelluar) with their associated behavioral signals (pupil, face, sounds, optogenetics) into NWB format. Recording sessions performed in head-fixed mice. Coding language: MAtlab.
 
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
- 1. Objective A. Make a convertion script in Matlab.
- 2. Objective B. Check the compatibility of the nwb files with Matlab and Python.
+ Objective 1. Make a convertion script in Matlab.
+ Objective 2. Check the compatibility of the nwb files with Matlab and Python.
 <!-- 1. ...-->
 
 ## Approach and Plan
